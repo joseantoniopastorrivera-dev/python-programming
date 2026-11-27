@@ -30,9 +30,6 @@ Ejercicios y proyectos de Python por unidad. Cada carpeta es independiente; no h
 - `python archivo.py` desde la carpeta del ejercicio (los proyectos usan imports relativos a su carpeta).
 - Solo librería estándar salvo que el ejercicio diga otra cosa.
 
-## Notas
-- `__pycache__/` y `*.pyc` están en `.gitignore`.
-
 ## Karpathy guidelines
 
 Source: <https://github.com/multica-ai/andrej-karpathy-skills> (CLAUDE.md at commit 2c60614, MIT, by forrestchang), derived from <https://x.com/karpathy/status/2015883857489522876>. Text copied verbatim below; only the file's own "# CLAUDE.md" title line was dropped, and blank lines, link brackets and a code-fence language were added so it passes markdownlint.
